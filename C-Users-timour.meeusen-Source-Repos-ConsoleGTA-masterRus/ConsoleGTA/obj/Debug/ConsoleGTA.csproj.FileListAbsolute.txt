@@ -1,0 +1,6 @@
+C:\Users\Timour\Documents\Documenten\Visual Studio 2015\Pulls denk'\C-Users-timour.meeusen-Source-Repos-ConsoleGTA-masterRus\ConsoleGTA\bin\Debug\ConsoleGTA.exe.config
+C:\Users\Timour\Documents\Documenten\Visual Studio 2015\Pulls denk'\C-Users-timour.meeusen-Source-Repos-ConsoleGTA-masterRus\ConsoleGTA\bin\Debug\ConsoleGTA.exe
+C:\Users\Timour\Documents\Documenten\Visual Studio 2015\Pulls denk'\C-Users-timour.meeusen-Source-Repos-ConsoleGTA-masterRus\ConsoleGTA\bin\Debug\ConsoleGTA.pdb
+C:\Users\Timour\Documents\Documenten\Visual Studio 2015\Pulls denk'\C-Users-timour.meeusen-Source-Repos-ConsoleGTA-masterRus\ConsoleGTA\obj\Debug\ConsoleGTA.csprojResolveAssemblyReference.cache
+C:\Users\Timour\Documents\Documenten\Visual Studio 2015\Pulls denk'\C-Users-timour.meeusen-Source-Repos-ConsoleGTA-masterRus\ConsoleGTA\obj\Debug\ConsoleGTA.exe
+C:\Users\Timour\Documents\Documenten\Visual Studio 2015\Pulls denk'\C-Users-timour.meeusen-Source-Repos-ConsoleGTA-masterRus\ConsoleGTA\obj\Debug\ConsoleGTA.pdb
