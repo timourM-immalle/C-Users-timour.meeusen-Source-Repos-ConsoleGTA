@@ -23,6 +23,8 @@ namespace ConsoleGTA
 
             //lol
             Console2.Write("lol", ConsoleColor.Green, ConsoleColor.DarkRed);
+
+            //geen Master
         }
     }
 }
